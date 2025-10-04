@@ -1,0 +1,85 @@
+.abouthead {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: system-ui;
+    padding-bottom: 10px;
+}
+.aboutparee {
+    margin-bottom: 5px;
+}
+.serviceht{
+     font-size: 30px;
+    font-weight: 700;
+    font-family: system-ui;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+ul.listoful {
+    list-style: none;
+}
+ul.listoful li {
+    line-height: 2;
+}
+ul.listoful li i{
+    color: #0d6efd;
+}
+#packagesec {
+    background: #fff;
+    text-align: center;
+}
+.package-box {
+    text-align: center;
+}
+
+.package-box {
+  text-align: center;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  transition: 0.3s;
+  background: #fff;
+}
+.package-box:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+.package-box i {
+  color: #0d6efd;
+  margin-bottom: 15px;
+}
+.btn-readmore {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 20px;
+  background: #0d6efd;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.btn-readmore:hover {
+  background: #0d6efd;
+  color: #fff;
+}
+
+
+@media (max-width:767px){
+    
+.about-section {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.serviceht{
+     font-size: 24px;
+}
+.abouthead {
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+}
