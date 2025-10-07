@@ -4,6 +4,10 @@
     font-family: system-ui;
     padding-bottom: 10px;
 }
+.about-section {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
 .aboutparee {
     margin-bottom: 5px;
 }
@@ -74,6 +78,7 @@ ul.listoful li i{
 .abouthead {
     font-size: 24px;
 }
+
 
 
 
